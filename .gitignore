@@ -1,2 +1,5 @@
 # IDEs
 .idea
+
+# OSs
+.DS_Store
